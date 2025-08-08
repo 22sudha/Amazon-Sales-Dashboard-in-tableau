@@ -18,3 +18,7 @@ The **Amazon Sales Dashboard** is a dynamic Tableau project designed to deliver 
 
 ### 🎯 Objective:
 To provide a comprehensive view of Amazon’s sales operations in India, helping teams optimize product performance, streamline logistics, and enhance customer satisfaction.
+
+##Screenshort
+<img width="1650" height="865" alt="image" src="https://github.com/user-attachments/assets/facc6d29-8e7a-4d87-845a-1a18cd8a1356" />
+
